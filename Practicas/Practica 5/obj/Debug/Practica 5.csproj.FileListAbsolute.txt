@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\bin\Debug\Practica 5.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\bin\Debug\Practica 5.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\bin\Debug\Practica 5.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\obj\Debug\Practica_5.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\obj\Debug\Practica_5.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\obj\Debug\Practica 5.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\obj\Debug\Practica 5.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practica 5\obj\Debug\Practica 5.pdb

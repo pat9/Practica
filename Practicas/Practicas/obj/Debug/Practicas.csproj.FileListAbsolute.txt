@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\bin\Debug\Practicas.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\bin\Debug\Practicas.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\bin\Debug\Practicas.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practicas\Practicas\obj\Debug\Practicas.pdb
